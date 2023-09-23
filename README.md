@@ -4,26 +4,43 @@ Bu kitap, yapay zeka ile görsel tasarımı konusunda okuyucusunu bilgilendirmek
 
 ## İçerik (İndeks)
 <ol>
-<li>Yapay Zeka Temeller<ol>
-    <li>Yapay zeka tarihçe</li>
-      <li>Yakın gelecek tahminleri</li>
-      <li>Yapay genel zeka</li>
-  </ol>
-  </li>
+    <li>
+        Yapay Zeka Temeller<ol>
+            <li>Yapay zeka tarihçe</li>
+            <li>Yakın gelecek tahminleri</li>
+            <li>Yapay genel zeka</li>
+        </ol>
+    </li>
     <li>Üretken yapay zeka/Generati AI</li>
-    <li>Hukuk
+    <li>
+        Hukuk
+        <ol>
+            <li>GenerativeAI Hukuku</li>
+            <li>Mevcut Davalar</li>
+            <li>
+                LAION/LAION 5b
+            </li>
+        </ol>
+    </li>
+    <li>Temel Kavramlar
+        <ol>
+            <li>Derin öğrenme</li>
+            <li>Diffusion Model</li>
+            <li>Latent Diffusion Model</li>
+        </ol>
+        
+    </li>
+    <li>Araçlar
     <ol>
-      <li>GenerativeAI Hukuku</li>
-       <li>Mevcut Davalar</li>
-      <li>
-        LAION/LAION 5b
-      </li>
+        <li>
+            Midjourney
+        </li>
+        <li>Stable Diffusion</li>
+        <li>Gradi & A1111</li>
+        <li>Dall-E</li>
+        <li>Diğer</li>
     </ol>
     </li>
-  </ol>
-  </li>
-
 </ol>
-
-
+ 
 
